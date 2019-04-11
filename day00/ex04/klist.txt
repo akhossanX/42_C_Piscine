@@ -1,0 +1,8 @@
+Credentials cache: API:1889
+        Principal: akhossan@1337.MA
+
+  Issued                Expires               Principal
+Feb 15 08:34:47 2019  Feb 15 18:34:47 2019  krbtgt/1337.MA@1337.MA
+Feb 15 08:34:49 2019  Feb 15 18:34:47 2019  ldap/ldap-master.1337.ma@1337.MA
+Feb 15 08:34:50 2019  Feb 15 18:34:47 2019  HTTP/iscsi.1337.ma@1337.MA
+Feb 15 10:44:49 2019  Feb 15 18:34:47 2019  host/vogsphere.1337.ma@1337.MA
